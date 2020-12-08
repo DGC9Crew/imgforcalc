@@ -1,1 +1,1 @@
-# imgforcalc is just images
+*This repo only serves to have images uploaded for a website.*
